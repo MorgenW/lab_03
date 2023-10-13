@@ -1,6 +1,10 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
+<<<<<<< HEAD
 author: "User111, Lim Zhen Yang, User3 and User4 - Juan's Kingdom"
+=======
+author: "zimo wang, Lim Zhen Yang, User3 and User4 - Juan's Kingdom"
+>>>>>>> ebe44dc132860b58186353ac423b51bb92c55c97
 date: "`r Sys.Date()`"
 output: html_document
 ---
